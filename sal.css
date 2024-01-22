@@ -1,0 +1,17 @@
+.pic1{
+display: flex;
+    background-color: chocolate;
+    padding: 20px;
+}
+
+.pic2{
+    display: flex;
+    background-color: aqua;
+    padding: 20px;
+}
+
+.pic3{
+    display: flex;
+    background-color: coral;
+    padding: 20px;
+}

@@ -1,0 +1,33 @@
+form{
+    background-color: #770743;
+    width: 40%;
+    margin: auto;
+    padding: 150px;
+}
+.cl{
+    display: inline-block;
+    button{
+        width: 10px;
+        border-radius: 50px;
+    }
+}
+body{
+    background-color: palevioletred;
+}
+label{
+    display: inline-block;
+    width: 100px;
+
+}
+[input[type=text],input[type=date],input[type=password],input[type=tel],input[type=email]{
+    width: 60%;
+    border-radius: 5px;
+    height: 30px;
+    padding-left: 10px;
+    margin-left: 50px;
+}
+.cl{
+    margin-top: 11px;
+}
+
+

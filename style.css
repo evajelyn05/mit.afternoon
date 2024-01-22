@@ -1,0 +1,37 @@
+
+.heading-1{
+color: chocolate;
+}
+.heading-2{
+font-size: 20px;
+}
+#my heading{
+font-size: 40px;
+}
+.Emobilis{
+    background-color: aqua;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #fff0f7;
+}
+.test{
+    display: flex;
+    background-color: crimson;
+padding: 20px;
+
+}
+.paragraph1{
+margin-left: 30px;
+}
+.main{
+    display: flex;
+}
+.paragraph2{
+    color: chocolate;
+}
+.paragraph3{
+    color: #3aaf88;
+}
